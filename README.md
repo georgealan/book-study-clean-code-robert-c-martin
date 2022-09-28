@@ -1,13 +1,13 @@
 
 
 <h1 align="center">
-     💻 <a href="https://www.onjava8.com/" alt="Robert C. Martin - Clean Code Book Official Site" target="_blank"> Clean Code - A Handbook of Agile Software Craftsmanship by Robert C. Martin </a>
+     💻 <a href="https://www.oreilly.com/library/view/clean-code-a/9780136083238/" alt="Robert C. Martin - Clean Code Book Official Site" target="_blank"> Clean Code - A Handbook of Agile Software Craftsmanship by Robert C. Martin </a>
 </h1>
 
 ![](https://raw.githubusercontent.com/georgealan/book-study-clean-code-robert-c-martin/main/assets/CleanCodeBanner.jpg)
 
 <h3 align="center">
-    🏆 On Java 8 covers version 8 of the Java programming language. Version 2 (December 2021) includes independent supplemental subsections that cover features through Java 17.
+    🏆 Clean Code is divided into three parts. The first describes the principles, patterns, and practices of writing clean code. The result is a knowledge base that describes the way we think when we write, read, and clean code.
 </h3>
 
 <p align="center">
@@ -49,7 +49,7 @@ Index Content
 
 ## 💻 About this project
 
-This project is about my study path for learning Java, for solidify my knowledge the most deepest I can. I choose many books and special complementary courses to polish my skills in Java programming, and this book is part of it. I'll read it from beginning to end, work in exercises and so on! I'm also reading the book Core Java 12th by Cay Horstmann along with this book here.
+Repository for store my work, study in this book, exercises, practice and so on.
 
 ---
 
@@ -77,7 +77,7 @@ Initially, this project uses the following technologies, this list may grow duri
 
 ## 📝 License
 
-This project is under license [MIT](./LICENSE).
+This project don't have any license.
 
 Made with ❤️ by George Alan Rufo 👋🏽 [You can contact me any time, let's talk!](https://www.linkedin.com/in/george-alan-fullstack-developer/)
 
